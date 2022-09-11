@@ -1,3 +1,3 @@
-# MAC0015 - Introdução à Computação com Julia
+# MAC0015 - Introduction to Computing with Julia
 
-Exercícios e Projeto Final elaborados para disciplina de Introdução à Computação para Ciências Exatas e Teconologia ofertada pelo IME-USP.
+Exercises and Final Project developed for Introduction to Computing for Exact Sciences and Technology discipline, offered by IME-USP.
